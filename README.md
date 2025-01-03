@@ -3,11 +3,14 @@
 Task Reminder App
 
 ## How to set up and run the application.
-  ##Android
+  **Android**
     * Open Project in Android Studio
     * In Terminal , do Flutter pug get
     * Run Application
-
+  **iOS**
+    * Run **pod install**
+    * Can run by opening Runner.workspace from iOS Folder on xcode
+    * Or can run from Android Studio by selecting iPhone Simulator
 
 ## Platform-specific implementations and challenges faced
   ##Android
